@@ -1,0 +1,30 @@
+{
+	"$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+	"contentVersion": "1.0.0.0",
+	"parameters": {
+		"factoryName": {
+			"value": "azuredatafactorygroup"
+		},
+		"AzureSqlDatabase1_password": {
+			"value": ""
+		},
+		"Salesforce_LinkedService_clientSecret": {
+			"value": ""
+		},
+		"AzureSqlDatabase1_properties_typeProperties_server": {
+			"value": "basededonneesqlazure.database.windows.net"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_database": {
+			"value": "basededonneesazuresql"
+		},
+		"AzureSqlDatabase1_properties_typeProperties_userName": {
+			"value": "basededonneesazuresql"
+		},
+		"Salesforce_LinkedService_properties_typeProperties_environmentUrl": {
+			"value": "https://agentforce.my.salesforce.com"
+		},
+		"Salesforce_LinkedService_properties_typeProperties_clientId": {
+			"value": "aboud083814@agentforce.com"
+		}
+	}
+}
