@@ -7,9 +7,9 @@
 		"typeProperties": {
 			"environmentUrl": "https://orgfarm-972c1686be-dev-ed.develop.my.salesforce.com",
 			"clientId": "aboud083814@agentforce.com",
-			"apiVersion": "59.0",
+			"apiVersion": "56.0",
 			"authenticationType": "OAuth2ClientCredential",
-			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEUwQzQ3QzY0LUU5NTktNEVBQi1CQzJGLTFCODMyMTc5Mjg5NV80NDRjNjQ5MC02MjA4LTQyZmQtYmM0YS02NmEwN2FhMTExYjAiDQp9"
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEUwQzQ3QzY0LUU5NTktNEVBQi1CQzJGLTFCODMyMTc5Mjg5NV83ZGMzNTVlMy01OWIyLTQwMWItOGY0Ni0xNWVkMGZhMzlmNGEiDQp9"
 		}
 	}
 }
