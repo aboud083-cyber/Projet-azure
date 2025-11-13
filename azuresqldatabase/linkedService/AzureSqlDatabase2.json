@@ -1,0 +1,17 @@
+{
+	"name": "AzureSqlDatabase2",
+	"type": "Microsoft.DataFactory/factories/linkedservices",
+	"properties": {
+		"annotations": [],
+		"type": "AzureSqlDatabase",
+		"typeProperties": {
+			"server": "basededonneesqlazure.database.windows.net",
+			"database": "basededonneesazuresql",
+			"encrypt": "mandatory",
+			"trustServerCertificate": false,
+			"authenticationType": "SQL",
+			"userName": "basededonneesazuresql",
+			"encryptedCredential": "ew0KICAiVmVyc2lvbiI6ICIyMDE3LTExLTMwIiwNCiAgIlByb3RlY3Rpb25Nb2RlIjogIktleSIsDQogICJTZWNyZXRDb250ZW50VHlwZSI6ICJQbGFpbnRleHQiLA0KICAiQ3JlZGVudGlhbElkIjogIkRBVEFGQUNUT1JZQEUwQzQ3QzY0LUU5NTktNEVBQi1CQzJGLTFCODMyMTc5Mjg5NV9mNTEzMTQwOC1jN2U1LTQ2YjktOTZmMC1jMjJjMzBhYTE4ZjciDQp9"
+		}
+	}
+}
